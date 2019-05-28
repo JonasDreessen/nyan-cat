@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#background {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  z-index: -100;
+}
+
+#button {
+  text-align: center;
+  position: fixed;
+  margin-left: 45%;
+  margin-top: 30%;
+}
+
+#button button {
+  background-color: blue;
+  color: white;
+  border: 1px solid blue;
+  border-radius: 20%;
+  width: 100px;
+  height: 50px;
+}
+
+#myAnimation {
+  width: 100px;
+  height: 100px;
+  max-width: 100%;
+  position: fixed;
+}
+/*# sourceMappingURL=style.css.map */
